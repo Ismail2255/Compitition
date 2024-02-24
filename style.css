@@ -1,0 +1,6 @@
+.main1{
+   border: 1px solid black;
+   height: 70vh;
+   background-color: blue;
+   display: flex;
+}
